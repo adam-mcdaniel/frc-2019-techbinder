@@ -1,0 +1,8 @@
+[book]
+authors = ["adam-mcdaniel"]
+multilingual = false
+src = "src"
+title = "Programming Techbinder"
+
+[output.html]
+default-theme = "coal"
